@@ -1,0 +1,7 @@
+/target
+*.bmp
+*.jpg
+*.png
+*.tiff
+*.jpeg
+*.lock
